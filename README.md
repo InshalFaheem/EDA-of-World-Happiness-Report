@@ -20,5 +20,5 @@
 ### Data Source:
 https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021
 
- ![alt text!](./images/GDP vs happiness.png)
+ ![alt text!](../images/GDP vs happiness.png)
 
