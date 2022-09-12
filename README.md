@@ -12,13 +12,26 @@
 - Corruption
 
 ### Questions to solve:
-- Effect of GDP on Happiness Score
-- Effect of Freedom to Make Life choices on Happiness Score
-- To 10 Happiest and Saddest Countries based on Life Expectency
-- Effect of Corruption on Happiness Score
+- #### Effect of GDP on Happiness Score
+
+![GDP](https://github.com/InshalFaheem/EDA-of-World-Happiness-Report/blob/main/images/GDP%20vs%20happiness.png?raw=true)
+Countries with low GDP have low happines score
+
+- #### Effect of Freedom to Make Life choices on Happiness Score
+
+![LifeChocices](https://github.com/InshalFaheem/EDA-of-World-Happiness-Report/blob/main/images/free%20to%20make%20life%20choices.png?raw=true())
+Happiness Score increases as Freedom to Life choices increases
+
+
+- #### To 10 Happiest and Saddest Countries based on Life Expectency
+![Top](https://github.com/InshalFaheem/EDA-of-World-Happiness-Report/blob/main/images/top10%20nadm%20bottom%2010.png?raw=true)
+
+
+- #### Effect of Corruption on Happiness Score
+![Cor](https://github.com/InshalFaheem/EDA-of-World-Happiness-Report/blob/main/images/corruption%20vs%20happiness.png?raw=true)
+Happiness increases if there is less Corruption
 
 ### Data Source:
 https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021
 
- ![alt text!](../images/GDP vs happiness.png)
 
