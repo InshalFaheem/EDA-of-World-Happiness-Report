@@ -33,7 +33,7 @@
 - Happiness increases if there is less Corruption
 
 - #### Comparision of happiness score in Pakistan, China and India
-![Cor]([https://github.com/InshalFaheem/EDA-of-World-Happiness-Report/blob/main/images/corruption%20vs%20happiness.png?raw=true](https://github.com/InshalFaheem/EDA-of-World-Happiness-Report/blob/main/images/Pak%20VS%20China%20Vs%20India.png))
+![Cor](https://github.com/InshalFaheem/EDA-of-World-Happiness-Report/blob/main/images/corruption%20vs%20happiness.png?raw=true)
 - China is most happiest between the three countries
 
 ### Data Source:
